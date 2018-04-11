@@ -1,0 +1,14 @@
+{
+  "unittest/unittesting.py::CaseCheck::testFromRomanCase": true,
+  "unittest/unittesting.py::CaseCheck::testToRomanCase": true,
+  "unittest/unittesting.py::FromRomanBadInput::testMalformedAntecedent": true,
+  "unittest/unittesting.py::FromRomanBadInput::testRepeatedPairs": true,
+  "unittest/unittesting.py::FromRomanBadInput::testTooManyRepeatedNumerals": true,
+  "unittest/unittesting.py::KnownValues::testFromRomanKnownValues": true,
+  "unittest/unittesting.py::KnownValues::testToRomanKnownValues": true,
+  "unittest/unittesting.py::SanityCheck::testSanity": true,
+  "unittest/unittesting.py::ToRomanBadInput::testNegative": true,
+  "unittest/unittesting.py::ToRomanBadInput::testNonInteger": true,
+  "unittest/unittesting.py::ToRomanBadInput::testTooLarge": true,
+  "unittest/unittesting.py::ToRomanBadInput::testZero": true
+}
